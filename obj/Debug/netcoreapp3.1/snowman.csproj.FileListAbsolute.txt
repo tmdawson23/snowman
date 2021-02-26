@@ -1,0 +1,12 @@
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/obj/Debug/netcoreapp3.1/snowman.csprojAssemblyReference.cache
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/obj/Debug/netcoreapp3.1/snowman.AssemblyInfoInputs.cache
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/obj/Debug/netcoreapp3.1/snowman.AssemblyInfo.cs
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/obj/Debug/netcoreapp3.1/snowman.csproj.CoreCompileInputs.cache
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/bin/Debug/netcoreapp3.1/snowman.deps.json
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/bin/Debug/netcoreapp3.1/snowman.runtimeconfig.json
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/bin/Debug/netcoreapp3.1/snowman.runtimeconfig.dev.json
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/bin/Debug/netcoreapp3.1/snowman.dll
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/bin/Debug/netcoreapp3.1/snowman.pdb
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/obj/Debug/netcoreapp3.1/snowman.dll
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/obj/Debug/netcoreapp3.1/snowman.pdb
+/Users/TaylorDawson/Documents/Source/Labs/SnowmanLab/snowman-tmdawson23/obj/Debug/netcoreapp3.1/snowman.genruntimeconfig.cache
